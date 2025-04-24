@@ -1,3 +1,3 @@
-from . import Robot
+from . import robot
 
-__all__ = ["Robot"]
+__all__ = ["robot"]
