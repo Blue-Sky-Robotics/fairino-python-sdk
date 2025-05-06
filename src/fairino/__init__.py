@@ -1,3 +1,3 @@
-from . import robot
+from .robot import RPC as FairinoAPI
 
-__all__ = ["robot"]
+__all__ = ["FairinoAPI"]
